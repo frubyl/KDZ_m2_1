@@ -1,0 +1,11 @@
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\bin\Debug\net6.0\Methods_Library.deps.json
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\bin\Debug\net6.0\Methods_Library.dll
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\bin\Debug\net6.0\Methods_Library.pdb
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\Methods_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\Methods_Library.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\Methods_Library.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\Methods_Library.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\Methods_Library.dll
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\refint\Methods_Library.dll
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\Methods_Library.pdb
+C:\Users\Сергей\Desktop\KDZ_2\Methods_Library\obj\Debug\net6.0\ref\Methods_Library.dll
